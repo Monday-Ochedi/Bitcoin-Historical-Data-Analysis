@@ -19,6 +19,8 @@ a minute to minute updates of OHLC (Open, High, Low, Close), Volume in BTC and i
 and weighted bitcoin price. Timestamps are in Unix time. Timestamps without any trades or activity have
 their data fields filled with NaNs
 
+- Source: https://www.kaggle.com/datasets/mczielinski/bitcoin-historical-data
+
 ### Tools
 - Data Cleaning - Power Query Editor
 - Data Visualization - Microsoft Power BI
